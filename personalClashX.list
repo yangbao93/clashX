@@ -5,5 +5,7 @@
 # DOMAIN-SUFFIX,13th.tech
 # DOMAIN-KEYWORD,youtube
 
+# github
 DOMAIN-SUFFIX,github.com
+# jetbrains
 DOMAIN-SUFFIX,jetbrains.com
