@@ -9,3 +9,5 @@
 DOMAIN-SUFFIX,github.com
 # jetbrains
 DOMAIN-SUFFIX,jetbrains.com
+#openai
+DOMAIN-SUFFIX,openai.com
