@@ -10,14 +10,19 @@ DOMAIN-SUFFIX,twitter.com,Proxy
 DOMAIN-SUFFIX,instagram.com,Proxy
 
 # 必须直接链接的域名
+DOMAIN-SUFFIX,cmft,DIRECT
+DOMAIN-SUFFIX,hq.cmcc,DIRECT
+DOMAIN-SUFFIX,cmft.com.cn,DIRECT
+DOMAIN-SUFFIX,cmpay.com,DIRECT
+DOMAIN-SUFFIX,cmitoa.hq.cmcc,DIRECT
 
 # 限制连接的域名
 DOMAIN-SUFFIX,abc.com,REJECT
 
 
 # 允许连接的 IP 段
-IP-CIDR,192.168.0.0/16,DIRECT
-IP-CIDR,10.0.0.0/8,DIRECT
+# IP-CIDR,192.168.0.0/16,DIRECT
+# IP-CIDR,10.0.0.0/8,DIRECT
 
 # 拦截特定关键词
 # USER-AGENT, *Twitter*, REJECT
