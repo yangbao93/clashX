@@ -5,8 +5,8 @@
 # DOMAIN-SUFFIX,13th.tech
 # DOMAIN-KEYWORD,youtube
 
-HOST-SUFFIX,cmft
-HOST-SUFFIX,hq.cmcc
-HOST-SUFFIX,cmft.com.cn
-HOST-SUFFIX,cmpay.com
-HOST-SUFFIX,cmitoa.hq.cmcc
+HOST-SUFFIX,cmft,personalNoQuanX
+HOST-SUFFIX,hq.cmcc,personalNoQuanX
+HOST-SUFFIX,cmft.com.cn,personalNoQuanX
+HOST-SUFFIX,cmpay.com,personalNoQuanX
+HOST-SUFFIX,cmitoa.hq.cmcc,personalNoQuanX
