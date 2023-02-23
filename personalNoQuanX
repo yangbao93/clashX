@@ -1,0 +1,12 @@
+# CIDR 网段规则举例
+# IP-CIDR,45.113.192.0/22,no-resolve
+
+# Domain使用举例
+# DOMAIN-SUFFIX,13th.tech
+# DOMAIN-KEYWORD,youtube
+
+HOST-SUFFIX,cmft
+HOST-SUFFIX,hq.cmcc
+HOST-SUFFIX,cmft.com.cn
+HOST-SUFFIX,cmpay.com
+HOST-SUFFIX,cmitoa.hq.cmcc
