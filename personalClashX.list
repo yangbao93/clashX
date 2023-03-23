@@ -11,3 +11,5 @@ DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,jetbrains.com
 #openai
 DOMAIN-SUFFIX,openai.com
+#poe
+DOMAIN-SUFFIX,poe.com
