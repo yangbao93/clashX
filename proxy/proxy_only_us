@@ -1,0 +1,6 @@
+# NAME: proxy_only_us
+# AUTHOR: my
+DOMAIN-KEYWORD,bard
+DOMAIN-KEYWORD,cluade
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,bard.google.com
