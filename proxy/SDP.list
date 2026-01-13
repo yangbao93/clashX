@@ -11,7 +11,8 @@ DOMAIN-KEYWORD,csp-middleware-module
 DOMAIN-SUFFIX,artifactory-console.devops.cmft
 DOMAIN-SUFFIX,doc.devcloud.cmft
 DOMAIN-SUFFIX,gitlab.devops.cmft
-DOMAIN-SUFFIX,cmft
+DOMAIN-SUFFIX,it.cmft
+DOMAIN-SUFFIX,devcloud.cmft
 DOMAIN-SUFFIX,auth.4a.test
 DOMAIN-SUFFIX,nip.io
 
