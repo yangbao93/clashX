@@ -1,1 +1,43 @@
+# 需要走 SDP 的应用程序
+PROCESS-NAME,java
+PROCESS-NAME,Navicat
+PROCESS-NAME,Navicat
+PROCESS-NAME,git
 
+# 域名信息
+DOMAIN-KEYWORD,cmft
+DOMAIN-KEYWORD,cmcc
+DOMAIN-KEYWORD,csp-middleware-module
+DOMAIN-SUFFIX,artifactory-console.devops.cmft
+DOMAIN-SUFFIX,doc.devcloud.cmft
+DOMAIN-SUFFIX,gitlab.devops.cmft
+DOMAIN-SUFFIX,auth.4a.test
+DOMAIN-SUFFIX,nip.io
+
+# IP 信息
+# 注册中心等中间件
+IP-CIDR,10.178.77.0/24
+# 网关服务
+IP-CIDR,10.178.69.0/24
+# gitlab 服务 
+IP-CIDR,10.176.22.0/24
+IP-CIDR,10.177.175.0/24
+IP-CIDR,192.168.172.0/24 
+# 数据库10.176.52.151
+IP-CIDR,10.176.52.0/24
+IP-CIDR,10.116.52.0/24
+# 配置中心
+IP-CIDR,10.16.169.11/32
+# 配置中心
+IP-CIDR,10.18.4.252/32
+IP-CIDR,192.168.192.99/32
+
+# 其他
+IP-CIDR,192.168.102.99/32
+IP-CIDR,10.176.64.0/24
+IP-CIDR,10.16.169.11/32
+IP-CIDR,10.177.175.10/32
+# auth.4a.test 测试环境域名与 IP 地址代理
+IP-CIDR,10.176.152.5/32
+# 通用中台测试环境IP地址
+IP-CIDR,10.176.143.8/32
