@@ -1,3 +1,6 @@
+# DNS服务器
+IP-CIDR,192.168.102.99/32
+
 # 需要走 SDP 的应用程序
 PROCESS-NAME,java
 PROCESS-NAME,Navicat
