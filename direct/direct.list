@@ -1,5 +1,4 @@
-# NAME: proxy_only_us
-# AUTHOR: my
-DOMAIN-KEYWORD,cmft
-DOMAIN-SUFFIX,gitlab.devops.cmft
-DOMAIN-SUFFIX,bing.com
+IP-CIDR,10.0.0.0/8
+IP-CIDR,172.16.0.0/12
+IP-CIDR,192.168.0.0/16
+IP-CIDR,192.0.0.0/24
